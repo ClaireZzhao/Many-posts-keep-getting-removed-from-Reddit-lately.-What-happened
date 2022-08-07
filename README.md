@@ -1,4 +1,6 @@
 # Reddit-Removed-Article-EDA-Using-SQL
+<img width="883" alt="스크린샷 2022-08-08 오전 1 29 50" src="https://user-images.githubusercontent.com/108508142/183301155-adf09365-7f02-4ce1-99f5-a0afde9570c6.png">
+
 Reddit 게시물들 삭제에 대한 탐색적 데이터 분석
 
 ## Objectives
